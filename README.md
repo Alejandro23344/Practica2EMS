@@ -24,7 +24,8 @@ jobs:
      - name: Build with Maven
        run: mvn -B package --file pom.xml
 ```
-
+## Status Badge
+[![Build and test of Java Project](https://github.com/Alejandro23344/Practica2EMS/actions/workflows/main.yml/badge.svg)](https://github.com/Alejandro23344/Practica2EMS/actions/workflows/main.yml)
 ## Recursos
 https://www.adictosaltrabajo.com/2020/10/28/introduccion-a-github-actions-sintaxis-basica/
 
